@@ -39,16 +39,16 @@
 &nbsp;  
 
 ## 분석 주제
-![image](https://github.com/jwshin0908/BigContest_2023/assets/66217855/9871ca83-ff52-4ce2-af58-626dfcbee986)
+![image](https://github.com/jwshin0908/BigContest_2023/assets/66217855/1eced518-a191-40ed-a9d2-878122c03aac)
 
 ## 분석 순서도
 ![image](https://github.com/jwshin0908/BigContest_2023/assets/66217855/adfa59a8-09a1-48a8-b45f-19e968dc36ab)
 
 ## 장르별 좌석 클러스터링
-![image](https://github.com/jwshin0908/BigContest_2023/assets/66217855/f86df4c3-a853-41bb-a284-2f1b5fe5491a)
+![image](https://github.com/jwshin0908/BigContest_2023/assets/66217855/691119d7-22c3-4e27-b680-b094bbf440dd)
 
 ## 가격 모델링
-![image](https://github.com/jwshin0908/BigContest_2023/assets/66217855/35122938-c389-448b-9e19-42a25b488c85)
+![image](https://github.com/jwshin0908/BigContest_2023/assets/66217855/b2f1655e-7676-449e-a3bb-f916821f06be)
 
 ---
 
