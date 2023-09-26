@@ -35,11 +35,20 @@
 </div>
 
 &nbsp;  
+&nbsp;  
+&nbsp;  
 
 ## 분석 주제
-## 분석 배경 및 목적
-## 분석 과정 요약
-## 결론 및 시사점
+![image](https://github.com/jwshin0908/BigContest_2023/assets/66217855/9871ca83-ff52-4ce2-af58-626dfcbee986)
+
+## 분석 순서도
+![image](https://github.com/jwshin0908/BigContest_2023/assets/66217855/adfa59a8-09a1-48a8-b45f-19e968dc36ab)
+
+## 장르별 좌석 클러스터링
+![image](https://github.com/jwshin0908/BigContest_2023/assets/66217855/f86df4c3-a853-41bb-a284-2f1b5fe5491a)
+
+## 가격 모델링
+![image](https://github.com/jwshin0908/BigContest_2023/assets/66217855/35122938-c389-448b-9e19-42a25b488c85)
 
 ---
 
