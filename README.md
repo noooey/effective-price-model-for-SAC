@@ -35,6 +35,16 @@
 </div>
 
 &nbsp;  
+
+<h3 align='center'> 🏆대상🏆 </h3>
+<h3 align='center'> (과학기술정보통신부장관상) </h3>
+
+<div align='center'>
+
+
+
+</div>
+
 &nbsp;  
 &nbsp;  
 
