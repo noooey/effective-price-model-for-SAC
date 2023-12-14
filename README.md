@@ -36,7 +36,7 @@
 
 &nbsp;  
 
-<h3 align='center'> 🏆대상🏆 </h3>
+<h3 align='center'> <a href="http://www.koit.co.kr/news/articleView.html?idxno=119180"> 🏆대상🏆 </a> </h3>  
 <h3 align='center'> (과학기술정보통신부장관상) </h3>
 
 <div align='center'>
